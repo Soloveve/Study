@@ -22,9 +22,3 @@ def F1(x, p):
 for s in range(1, 29):
     if F(s, 1):
         print(s)
-
-print()
-
-for s in range(1, 29):
-    if F1(s, 1):
-        print(s)
